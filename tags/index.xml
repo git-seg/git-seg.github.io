@@ -2,11 +2,11 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Moto Blog</title>
-    <link>https://git-seg.github.io/moto/tags/</link>
+    <link>https://git-seg.github.io/tags/</link>
     <description>Recent content in Tags on Moto Blog</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <copyright>Moto Blog</copyright>
-    <atom:link href="https://git-seg.github.io/moto/tags/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://git-seg.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
