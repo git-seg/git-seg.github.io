@@ -7,13 +7,111 @@
     <generator>Hugo</generator>
     <language>en-us</language>
     <copyright>Moto Blog</copyright>
-    <lastBuildDate>Sat, 19 Jul 2025 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 20 Jul 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://git-seg.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>2025 Cars</title>
       <link>https://git-seg.github.io/tags/2025-cars/</link>
-      <pubDate>Sat, 19 Jul 2025 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 20 Jul 2025 00:00:00 +0000</pubDate>
       <guid>https://git-seg.github.io/tags/2025-cars/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Auto Repair</title>
+      <link>https://git-seg.github.io/tags/auto-repair/</link>
+      <pubDate>Sun, 20 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>https://git-seg.github.io/tags/auto-repair/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Auto Repair Hacks</title>
+      <link>https://git-seg.github.io/tags/auto-repair-hacks/</link>
+      <pubDate>Sun, 20 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>https://git-seg.github.io/tags/auto-repair-hacks/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Automotive</title>
+      <link>https://git-seg.github.io/tags/automotive/</link>
+      <pubDate>Sun, 20 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>https://git-seg.github.io/tags/automotive/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Car Care 2025</title>
+      <link>https://git-seg.github.io/tags/car-care-2025/</link>
+      <pubDate>Sun, 20 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>https://git-seg.github.io/tags/car-care-2025/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Car Maintenance Tips</title>
+      <link>https://git-seg.github.io/tags/car-maintenance-tips/</link>
+      <pubDate>Sun, 20 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>https://git-seg.github.io/tags/car-maintenance-tips/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Car Rankings 2025</title>
+      <link>https://git-seg.github.io/tags/car-rankings-2025/</link>
+      <pubDate>Sun, 20 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>https://git-seg.github.io/tags/car-rankings-2025/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Car Reviews</title>
+      <link>https://git-seg.github.io/tags/car-reviews/</link>
+      <pubDate>Sun, 20 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>https://git-seg.github.io/tags/car-reviews/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Car Tests</title>
+      <link>https://git-seg.github.io/tags/car-tests/</link>
+      <pubDate>Sun, 20 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>https://git-seg.github.io/tags/car-tests/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Electric Vehicles</title>
+      <link>https://git-seg.github.io/tags/electric-vehicles/</link>
+      <pubDate>Sun, 20 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>https://git-seg.github.io/tags/electric-vehicles/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>How to Fix Brake Fluid Leak</title>
+      <link>https://git-seg.github.io/tags/how-to-fix-brake-fluid-leak/</link>
+      <pubDate>Sun, 20 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>https://git-seg.github.io/tags/how-to-fix-brake-fluid-leak/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Monsoon Driving</title>
+      <link>https://git-seg.github.io/tags/monsoon-driving/</link>
+      <pubDate>Sun, 20 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>https://git-seg.github.io/tags/monsoon-driving/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Rankings</title>
+      <link>https://git-seg.github.io/tags/rankings/</link>
+      <pubDate>Sun, 20 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>https://git-seg.github.io/tags/rankings/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>SUVs</title>
+      <link>https://git-seg.github.io/tags/suvs/</link>
+      <pubDate>Sun, 20 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>https://git-seg.github.io/tags/suvs/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Tire Pressure</title>
+      <link>https://git-seg.github.io/tags/tire-pressure/</link>
+      <pubDate>Sun, 20 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>https://git-seg.github.io/tags/tire-pressure/</guid>
       <description></description>
     </item>
     <item>
@@ -24,24 +122,10 @@
       <description></description>
     </item>
     <item>
-      <title>Car Reviews</title>
-      <link>https://git-seg.github.io/tags/car-reviews/</link>
-      <pubDate>Sat, 19 Jul 2025 00:00:00 +0000</pubDate>
-      <guid>https://git-seg.github.io/tags/car-reviews/</guid>
-      <description></description>
-    </item>
-    <item>
       <title>Electric Car Reviews</title>
       <link>https://git-seg.github.io/tags/electric-car-reviews/</link>
       <pubDate>Sat, 19 Jul 2025 00:00:00 +0000</pubDate>
       <guid>https://git-seg.github.io/tags/electric-car-reviews/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Electric Vehicles</title>
-      <link>https://git-seg.github.io/tags/electric-vehicles/</link>
-      <pubDate>Sat, 19 Jul 2025 00:00:00 +0000</pubDate>
-      <guid>https://git-seg.github.io/tags/electric-vehicles/</guid>
       <description></description>
     </item>
     <item>
@@ -56,13 +140,6 @@
       <link>https://git-seg.github.io/tags/sports-cars/</link>
       <pubDate>Sat, 19 Jul 2025 00:00:00 +0000</pubDate>
       <guid>https://git-seg.github.io/tags/sports-cars/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>SUVs</title>
-      <link>https://git-seg.github.io/tags/suvs/</link>
-      <pubDate>Sat, 19 Jul 2025 00:00:00 +0000</pubDate>
-      <guid>https://git-seg.github.io/tags/suvs/</guid>
       <description></description>
     </item>
     <item>
